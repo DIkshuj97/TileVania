@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 5c814c170a05a45fb92bd717bbcc75a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -754299836499996157
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_0
+  - first:
+      213: -3451750234906679165
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_1
+  - first:
+      213: 9195366602009262488
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_2
+  - first:
+      213: 1532869947540876741
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_3
+  - first:
+      213: 5211393974725036279
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_4
+  - first:
+      213: -6934308902422633458
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_5
+  - first:
+      213: -8401608175629323122
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_6
+  - first:
+      213: 6328327414840712664
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_7
+  - first:
+      213: 2447978947497478895
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_8
+  - first:
+      213: -1622734330548617047
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_9
+  - first:
+      213: 6570841068809311230
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_10
+  - first:
+      213: -341869704074844868
+    second: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 192
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6851807ee6b974dd888246289ac41f25
+      internalID: -754299836499996157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 192
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69271688ecbb244b0b4c36cf300190a8
+      internalID: -3451750234906679165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 192
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e46d25677904f33b9cba97ad48fc36
+      internalID: 9195366602009262488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b8d9568c2f4a9c84b2d96adb8c9a3
+      internalID: 1532869947540876741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 128
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9329df7afc9e642b0808bf8a989e6b1e
+      internalID: 5211393974725036279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 128
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a582dc53417a7423d9009dbb9f2ea702
+      internalID: -6934308902422633458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63bf7ff090e140ff8a0f717cf35386c
+      internalID: -8401608175629323122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b42da7e6774467ad9c1229b17748f
+      internalID: 6328327414840712664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 64
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c60568eaf87432db56bed7d310943a
+      internalID: 2447978947497478895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50780bccbc7b4a50937c416987ec33e
+      internalID: -1622734330548617047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb9e39cbb0d43df8ac2774b44ef0b2
+      internalID: 6570841068809311230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __dungeon_of_sorrow_gate_by_nicnubill-d6qnag9_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907b23c26aea4a5487af9fcf8057a76
+      internalID: -341869704074844868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b75dae1af82c146818ca8874a8f878bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
